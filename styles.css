@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+th,td{
+  border: 3px solid white;
+  background: #00cc66;
+  width: 100px;
+  text-align: center;
+  color: white;
+}
+th{
+  height: 50px;
+}
+td{
+  height: 100px;
+}
